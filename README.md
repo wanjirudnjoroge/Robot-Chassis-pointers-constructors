@@ -21,14 +21,22 @@ g++ main.cpp -o main
 ## Tasks
 
  Task   Topic                         
- 1      Variable addresses and memory 
- 2      Pointers                      
- 3      Pointers and functions        
- 4      References                    
- 5      Const references              
- 6      Pointer arithmetic            
- 7      Dynamic memory                
- 8      Constructors                  
+ 1      addresses
+ 
+ 2      Pointers  
+ 
+ 3      Pointers and functions 
+ 
+ 4      References 
+ 
+ 5      Const references  
+ 
+ 6      Pointer arithmetic 
+ 
+ 7      Dynamic memory  
+ 
+ 8      Constructors  
+ 
  9      Classes and memory            
 
 ## What This Assignment Covers
