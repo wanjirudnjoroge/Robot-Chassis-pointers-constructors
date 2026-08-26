@@ -21,7 +21,7 @@ g++ main.cpp -o main
 ## Tasks
 
  Task   Topic                         
- 1      Variable addresses 
+ 1      addresses
  2      Pointers                      
  3      Pointers and functions        
  4      References                    
